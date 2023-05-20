@@ -1,4 +1,4 @@
-name: Test Project on Push and Pull Request
+name: Test Project on Push
 on:
   push:
     branches:
